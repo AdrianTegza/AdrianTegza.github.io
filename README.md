@@ -1,2 +1,2 @@
-# AdrianTegza.github.io
-My one site
+# AdrianTegza
+Мої домашні завдання
